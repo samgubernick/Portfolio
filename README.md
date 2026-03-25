@@ -1,6 +1,6 @@
 # Portfolio
 
-*C++, SDL2 (later SDL3), OpenGL*
+*C++, Android NDK, SDL2 (later SDL3), OpenGL, Bullet3*
 
 Video capture of an early prototype platform game I made using OpenGL:
 
